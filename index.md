@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+# Projektplan Ruhrbahrone
 
-You can use the [editor on GitHub](https://github.com/marcelreschke/ruhrbarone/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Missionen
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+---
+> ### Alle Benutzer erhält ein geeignetes Benutzer-Interface.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+> ### Alle Besucher sollen die Inhalte auf geeignete Weise konsumieren können.
 
-```markdown
-Syntax highlighted code block
+---
+> ### Die Technik ist längerfristig pflegbar.
 
-# Header 1
-## Header 2
-### Header 3
+---
+> ### Das Design ist längerfristig zeitgemäß und gefällig.
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Site building
 
-**Bold** and _Italic_ and `Code` text
+### Interne Personas
 
-[Link](url) and ![Image](src)
-```
+ - Silke, die Technikerin
+	 - eigentlicher Admin
+ - Stefan, der Herausgeber 
+	 - Userverwaltung
+	 - darf den Ruhrpiloten erstellen
+ - Linda, der Administrator (Chefredakteur, CvD, Ressort-Leiter)
+	 - darf Kommentare Freigeben
+	 - darf Artikel anderer Autoren bearbeiten
+ - Thorsten, die Redakteurin
+	 - darf neue Artikel erstellen
+	 - darf eigene Artikel bearbeiten
+	 - vereinfachen, vereinfachen, vereinfachen
+	 - will die "Medium"-UX
+		 - ablenkungsfrei
+		 - bruchlos
+		 - vorhersagbar
+		 - vorschaubar
+	 - "Das-ist-mir-zu-komplex"-Hürden beseitigen
+	 - Wenn es nicht klappt, ist es nicht seine Schuld
+	 - Es gibt eine Dokumentation oder Howto-Video
+ - Sabine, die Foto-Redakteurin (Galerie)
+	 - hat spezielle Anforderungen an den Galerie-Block
+ - Daniel, der Gastautor (Freier/Pauschalist)
+	 - Artikel muss von einem Admin freigegeben werden
+ - Grumpy Cat, der unverbesserliche Gewohnheitstäter
+	 - behält das alte Interface
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Infrastructur
 
-### Jekyll Themes
+### Entwicklung
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcelreschke/ruhrbarone/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Bereitstellung
 
-### Support or Contact
+### Betrieb
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Wiederkehrende Aufgaben
+
+#### Sicherheit
+
+##### Updates
+
+##### Backups
+
+
+
+### Content-Creation
+
+http://laglostland.story.aftonbladet.se/
+http://anvandarna.story.aftonbladet.se/
+
+#### Post-Types
+
+#### Style-Formate
+
+#### Content-Blöcke (Shortcake Shortcodes)
+
+## Design 
+
+### Externe Personas
