@@ -68,8 +68,8 @@
 
 ### Content-Creation
 
-http://laglostland.story.aftonbladet.se/
-http://anvandarna.story.aftonbladet.se/
+- https://laglostland.story.aftonbladet.se/
+- https://anvandarna.story.aftonbladet.se/
 
 #### Post-Types
 
